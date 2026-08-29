@@ -1,12 +1,15 @@
 <h1 align="center">Halo, saya Nabhaan Auryshafa Adhigana 👋</h1>
-<h3 align="center">Backend Developer | Laravel Enthusiast | Mahasiswa Teknik Informatika</h3>
+<h3 align="center">Fullstack Developer | DevOps | Next.js | Mahasiswa Teknik Informatika</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
@@ -14,9 +17,11 @@
 ### 🧑‍💻 Tentang Saya
 
 - 🎓 Mahasiswa **S1 Teknik Informatika (Rekayasa Perangkat Lunak)** — Universitas Dian Nuswantoro
-- 💻 Fokus pada **backend development** dengan Laravel & Eloquent ORM
-- 🌱 Terbiasa membangun aplikasi web full-stack: autentikasi, manajemen data, integrasi API, notifikasi otomatis
+- 💻 **Fullstack developer** — nyaman di backend (Laravel) maupun frontend modern (Next.js)
+- ⚙️ Bisa pegang sisi **DevOps**: deployment, konfigurasi server, queue & cron job, CI-ready workflow
+- 🌱 Terbiasa membangun aplikasi web end-to-end: autentikasi, manajemen data, integrasi API, notifikasi otomatis
 - 🚀 Berpengalaman deploy aplikasi ke shared hosting (cPanel) — dari nol sampai *live*
+- 📱 Sedang belajar **Android development** untuk memperluas ke sisi mobile
 - 📚 Belajar sambil kerja — percaya proses itu lebih penting dari jalan pintas
 
 ---
@@ -24,13 +29,16 @@
 ### 🛠️ Tech Stack
 
 **Bahasa & Framework**
-`PHP` `Laravel` `JavaScript` `HTML/CSS` `Blade` `Alpine.js` `Tailwind CSS`
+`PHP` `Laravel` `JavaScript` `Next.js` `React` `HTML/CSS` `Blade` `Alpine.js` `Tailwind CSS`
 
 **Database**
 `MySQL` `Eloquent ORM` `Perancangan ERD`
 
-**Tools & Lainnya**
-`Git/GitHub` `cPanel Deployment` `REST API` `Queue Jobs` `Cron Jobs`
+**DevOps & Tools**
+`Git/GitHub` `Docker` `cPanel Deployment` `REST API` `Queue Jobs` `Cron Jobs`
+
+**Sedang Dipelajari**
+`Android Development (Kotlin)`
 
 ---
 
@@ -51,6 +59,13 @@ Kontribusi individu sebagai backend developer pada proyek kelompok: merancang sk
 
 ---
 
+### 🧩 Sedang Dikerjakan / Dieksplorasi
+- 🌐 Membangun proyek frontend dengan **Next.js** untuk melengkapi kemampuan backend
+- ⚙️ Eksplorasi praktik **DevOps** (containerization, automated deployment)
+- 📱 Belajar **pengembangan Android** — langkah awal menuju mobile development
+
+---
+
 ### 📫 Hubungi Saya
 
 <p align="left">
@@ -60,4 +75,4 @@ Kontribusi individu sebagai backend developer pada proyek kelompok: merancang sk
 
 ---
 
-<p align="center"><i>"Skill dibangun dari jam terbang, bukan cuma angka di transkrip."</i></p>
+<p align="center"><i>"Sejarah selalu ditulis oleh mereka yang berani melompat ke dalam ketidakpastian."</i></p>
