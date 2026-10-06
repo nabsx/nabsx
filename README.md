@@ -42,30 +42,6 @@
 
 ---
 
-### 🔥 Proyek Unggulan
-
-#### 🛒 [Helvetica Engine — Sistem POS berbasis Laravel](https://github.com/nabsx/Helvetica_Engine)
-Sistem Point-of-Sale lengkap dengan autentikasi berbasis PIN, manajemen shift kasir, perhitungan pajak transaksi otomatis (PBJT & MDR QRIS), serta alur pembatalan pesanan dengan persetujuan admin.
-> `Laravel` `Blade` `Tailwind CSS` `Alpine.js` `Livewire`
-
-#### 💰 KeuanganKu — Aplikasi Pencatatan Keuangan Pribadi
-Aplikasi manajemen keuangan pribadi dengan sistem wallet & alokasi persentase otomatis, dilengkapi notifikasi Telegram Bot asinkron (queue job) dan sudah live di production.
-> `Laravel 12` `MySQL` `Telegram Bot API` `Queue Jobs`
-> 🔗 [keuanganku.yokode.my.id](https://keuanganku.yokode.my.id)
-
-#### 🎮 CodeXP — Sistem LMS Gamifikasi (Kontribusi Backend)
-Kontribusi individu sebagai backend developer pada proyek kelompok: merancang skema database (ERD 20 tabel, 4 domain fungsional) serta menyusun dokumentasi teknis.
-> `Laravel` `MySQL` `ERD Design`
-
----
-
-### 🧩 Sedang Dikerjakan / Dieksplorasi
-- 🌐 Membangun proyek frontend dengan **Next.js** untuk melengkapi kemampuan backend
-- ⚙️ Eksplorasi praktik **DevOps** (containerization, automated deployment)
-- 📱 Belajar **pengembangan Android** — langkah awal menuju mobile development
-
----
-
 ### 📫 Hubungi Saya
 
 <p align="left">
